@@ -3,12 +3,13 @@
 Vocabulary english command line application with Golang
 
 Aplikasi yang diharapkan adalah menampilkan word in english secara random bersama meaning dan examplenya setiap membuka Command Line
-Tujuan atau manfaat: Memperkaya kosakata bahasa English
+
+## Tujuan atau Manfaat
+Memperkaya kosakata bahasa English
 
 
 
-Dependencies : 
-
+## Dependencies
 Framework CLI golang : github.com/urfave/cli/v2
 
 API Dictionary : https://api.dictionaryapi.dev/api/v2/entries/en/
